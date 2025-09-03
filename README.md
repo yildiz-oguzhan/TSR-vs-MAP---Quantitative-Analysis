@@ -18,9 +18,7 @@ Install dependencies with:
 ```bash
 pip install pandas numpy scipy statsmodels matplotlib
 
-# =======================================================
-# Correlation Analysis
-# =======================================================
+Correlation Analysis
 
 import pandas as pd
 import seaborn as sns
